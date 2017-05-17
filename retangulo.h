@@ -2,7 +2,6 @@
 #define RETANGULO_H
 #include <figurageometrica.h>
 #include <ponto.h>
-#include <screen.h>
 
 class Retangulo:public FiguraGeometrica
 {
